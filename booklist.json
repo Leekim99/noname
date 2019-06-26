@@ -1,9 +1,9 @@
 {
-	"book1":'angular',
-	"book2":'react',
-	"book3":'vue',
-	"book4":'backbone',
-	"book3":'spring',
-	"book2":'django',
-	"book1":'node'
+	"book1":"angular",
+	"book2":"react",
+	"book3":"vue",
+	"book4":"backbone",
+	"book3":"spring",
+	"book2":"django",
+	"book1":"node"
 }
